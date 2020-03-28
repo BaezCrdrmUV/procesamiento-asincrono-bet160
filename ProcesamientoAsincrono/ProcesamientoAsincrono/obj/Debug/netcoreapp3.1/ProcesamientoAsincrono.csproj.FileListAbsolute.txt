@@ -9,3 +9,14 @@ C:\Users\BETO\source\repos\ProcesamientoAsincrono\ProcesamientoAsincrono\obj\Deb
 C:\Users\BETO\source\repos\ProcesamientoAsincrono\ProcesamientoAsincrono\obj\Debug\netcoreapp3.1\ProcesamientoAsincrono.AssemblyInfo.cs
 C:\Users\BETO\source\repos\ProcesamientoAsincrono\ProcesamientoAsincrono\obj\Debug\netcoreapp3.1\ProcesamientoAsincrono.dll
 C:\Users\BETO\source\repos\ProcesamientoAsincrono\ProcesamientoAsincrono\obj\Debug\netcoreapp3.1\ProcesamientoAsincrono.pdb
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\bin\Debug\netcoreapp3.1\ProcesamientoAsincrono.exe
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\bin\Debug\netcoreapp3.1\ProcesamientoAsincrono.deps.json
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\bin\Debug\netcoreapp3.1\ProcesamientoAsincrono.runtimeconfig.json
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\bin\Debug\netcoreapp3.1\ProcesamientoAsincrono.runtimeconfig.dev.json
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\bin\Debug\netcoreapp3.1\ProcesamientoAsincrono.dll
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\bin\Debug\netcoreapp3.1\ProcesamientoAsincrono.pdb
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\obj\Debug\netcoreapp3.1\ProcesamientoAsincrono.csprojAssemblyReference.cache
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\obj\Debug\netcoreapp3.1\ProcesamientoAsincrono.AssemblyInfoInputs.cache
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\obj\Debug\netcoreapp3.1\ProcesamientoAsincrono.AssemblyInfo.cs
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\obj\Debug\netcoreapp3.1\ProcesamientoAsincrono.dll
+C:\Users\BETO\Documents\GitHub\procesamiento-asincrono-bet160\ProcesamientoAsincrono\ProcesamientoAsincrono\obj\Debug\netcoreapp3.1\ProcesamientoAsincrono.pdb

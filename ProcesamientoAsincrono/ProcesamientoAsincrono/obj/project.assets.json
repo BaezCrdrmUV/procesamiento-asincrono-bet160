@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BETO\\source\\repos\\ProcesamientoAsincrono\\ProcesamientoAsincrono\\ProcesamientoAsincrono.csproj",
+      "projectUniqueName": "C:\\Users\\BETO\\Documents\\GitHub\\procesamiento-asincrono-bet160\\ProcesamientoAsincrono\\ProcesamientoAsincrono\\ProcesamientoAsincrono.csproj",
       "projectName": "ProcesamientoAsincrono",
-      "projectPath": "C:\\Users\\BETO\\source\\repos\\ProcesamientoAsincrono\\ProcesamientoAsincrono\\ProcesamientoAsincrono.csproj",
+      "projectPath": "C:\\Users\\BETO\\Documents\\GitHub\\procesamiento-asincrono-bet160\\ProcesamientoAsincrono\\ProcesamientoAsincrono\\ProcesamientoAsincrono.csproj",
       "packagesPath": "C:\\Users\\BETO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BETO\\source\\repos\\ProcesamientoAsincrono\\ProcesamientoAsincrono\\obj\\",
+      "outputPath": "C:\\Users\\BETO\\Documents\\GitHub\\procesamiento-asincrono-bet160\\ProcesamientoAsincrono\\ProcesamientoAsincrono\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BETO\\AppData\\Roaming\\NuGet\\NuGet.Config",

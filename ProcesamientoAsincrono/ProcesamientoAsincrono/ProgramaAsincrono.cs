@@ -7,7 +7,10 @@ namespace ProcesamientoAsincrono
     {
         static void Main(string[] args)
         {
-            var porcentaje = CalcularPorcentaje(70);
+            Console.WriteLine("Ingrese una cantidad entera para calcular su 50%");
+            int cantidad = int.Parse(Console.ReadLine());
+
+            var porcentaje = CalcularPorcentaje(cantidad);
             Metodo1();
 
             porcentaje.Wait();
@@ -19,7 +22,7 @@ namespace ProcesamientoAsincrono
             Console.WriteLine("Ejecucion asincrona del metodo 1");
         }
 
-        static async Task<float> CalcularPorcentaje(float value)
+        static async Task<float> CalcularPorcentaje(int value)
         {
             Console.WriteLine("Tarea de calcular el 50% de una cantidad ejecutandose de manera asincrona");
 
